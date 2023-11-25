@@ -74,3 +74,55 @@
 [2023-11-25 13:59:00,720: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x==========x]
+[2023-11-25 19:19:44,612: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-11-25 19:20:54,365: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-11-25 19:20:56,530: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-11-25 19:20:56,553: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-25 19:20:56,573: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-25 19:20:56,576: INFO: common: created directory at: artifacts]
+[2023-11-25 19:20:56,578: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-25 19:20:56,580: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-25 19:24:24,161: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-25 19:24:25,655: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-11-26 00:05:03,757: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-11-26 00:05:09,135: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-11-26 00:05:09,153: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 00:05:09,173: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 00:05:09,175: INFO: common: created directory at: artifacts]
+[2023-11-26 00:05:09,176: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-26 00:05:09,178: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-26 00:07:01,703: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-26 00:07:03,769: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-11-26 00:19:58,758: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-11-26 00:20:00,781: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-11-26 00:20:00,784: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 00:20:00,789: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 00:20:00,791: INFO: common: created directory at: artifacts]
+[2023-11-26 00:20:00,792: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-26 00:20:00,793: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-26 00:24:13,586: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-26 00:24:15,285: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-11-26 00:24:15,285: INFO: main: *******************]
+[2023-11-26 00:24:15,286: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2023-11-26 00:24:15,290: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 00:24:15,295: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 00:24:15,296: INFO: common: created directory at: artifacts]
+[2023-11-26 00:24:15,297: INFO: common: created directory at: artifacts/prepare_base_model]
+[2023-11-26 00:24:15,890: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2023-11-26 00:24:16,205: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2023-11-26 00:24:17,324: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-11-26 00:24:18,370: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
