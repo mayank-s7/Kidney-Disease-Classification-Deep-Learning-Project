@@ -126,3 +126,574 @@ x==========x]
 [2023-11-26 00:24:18,370: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
 
 x==========x]
+[2023-11-26 00:32:31,790:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2023-11-26 00:32:31,805:INFO:common:yaml file: params.yaml loaded successfully]
+[2023-11-26 00:32:31,812:INFO:common:created directory at: artifacts]
+[2023-11-26 00:32:31,817:INFO:common:created directory at: artifacts\training]
+[2023-11-26 00:41:42,997:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2023-11-26 00:41:43,022:INFO:common:yaml file: params.yaml loaded successfully]
+[2023-11-26 00:41:43,038:INFO:common:created directory at: artifacts]
+[2023-11-26 00:41:43,050:INFO:common:created directory at: artifacts\training]
+[2023-11-26 00:46:44,344:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2023-11-26 00:46:44,352:INFO:common:yaml file: params.yaml loaded successfully]
+[2023-11-26 00:46:44,357:INFO:common:created directory at: artifacts]
+[2023-11-26 00:46:44,362:INFO:common:created directory at: artifacts\training]
+[2023-11-26 00:51:52,218:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2023-11-26 00:51:52,231:INFO:common:yaml file: params.yaml loaded successfully]
+[2023-11-26 00:51:52,236:INFO:common:created directory at: artifacts]
+[2023-11-26 00:51:52,240:INFO:common:created directory at: artifacts\training]
+[2023-11-26 00:52:43,549:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2023-11-26 00:52:43,556:INFO:common:yaml file: params.yaml loaded successfully]
+[2023-11-26 00:52:43,560:INFO:common:created directory at: artifacts]
+[2023-11-26 00:52:43,562:INFO:common:created directory at: artifacts\training]
+[2023-11-26 00:55:47,635:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2023-11-26 00:55:47,642:INFO:common:yaml file: params.yaml loaded successfully]
+[2023-11-26 00:55:47,646:INFO:common:created directory at: artifacts]
+[2023-11-26 00:55:47,649:INFO:common:created directory at: artifacts\training]
+[2023-11-26 00:59:26,017:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2023-11-26 00:59:26,027:INFO:common:yaml file: params.yaml loaded successfully]
+[2023-11-26 00:59:26,031:INFO:common:created directory at: artifacts]
+[2023-11-26 00:59:26,036:INFO:common:created directory at: artifacts\training]
+[2023-11-26 01:00:56,182:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2023-11-26 01:00:56,189:INFO:common:yaml file: params.yaml loaded successfully]
+[2023-11-26 01:00:56,193:INFO:common:created directory at: artifacts]
+[2023-11-26 01:00:56,196:INFO:common:created directory at: artifacts\training]
+[2023-11-26 01:02:30,586:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2023-11-26 01:02:30,597:INFO:common:yaml file: params.yaml loaded successfully]
+[2023-11-26 01:02:30,602:INFO:common:created directory at: artifacts]
+[2023-11-26 01:02:30,605:INFO:common:created directory at: artifacts\training]
+[2023-11-26 01:10:22,707:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2023-11-26 01:10:22,723:INFO:common:yaml file: params.yaml loaded successfully]
+[2023-11-26 01:10:22,734:INFO:common:created directory at: artifacts]
+[2023-11-26 01:10:22,740:INFO:common:created directory at: artifacts\training]
+[2023-11-26 01:14:52,096:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2023-11-26 01:14:52,108:INFO:common:yaml file: params.yaml loaded successfully]
+[2023-11-26 01:14:52,111:INFO:common:created directory at: artifacts]
+[2023-11-26 01:14:52,117:INFO:common:created directory at: artifacts\training]
+[2023-11-26 01:16:45,958:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2023-11-26 01:16:45,968:INFO:common:yaml file: params.yaml loaded successfully]
+[2023-11-26 01:16:45,972:INFO:common:created directory at: artifacts]
+[2023-11-26 01:16:45,975:INFO:common:created directory at: artifacts\training]
+[2023-11-26 01:35:29,233: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-11-26 01:36:36,826: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-11-26 09:53:47,411: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-11-26 10:01:22,148: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-11-26 10:01:25,148: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-11-26 10:01:25,166: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 10:01:25,172: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 10:01:25,174: INFO: common: created directory at: artifacts]
+[2023-11-26 10:01:25,176: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-26 10:01:25,178: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-26 10:03:26,802: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-26 10:03:29,747: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-11-26 10:03:29,747: INFO: main: *******************]
+[2023-11-26 10:03:29,748: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2023-11-26 10:03:29,753: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 10:03:29,757: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 10:03:29,759: INFO: common: created directory at: artifacts]
+[2023-11-26 10:03:29,764: INFO: common: created directory at: artifacts/prepare_base_model]
+[2023-11-26 10:03:30,482: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2023-11-26 10:03:30,969: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2023-11-26 10:03:32,381: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-11-26 10:03:33,509: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2023-11-26 10:03:33,509: INFO: main: *******************]
+[2023-11-26 10:03:33,509: INFO: main: >>>>>> stage Training started <<<<<<]
+[2023-11-26 10:03:33,513: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 10:03:33,516: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 10:03:33,518: INFO: common: created directory at: artifacts]
+[2023-11-26 10:03:33,519: INFO: common: created directory at: artifacts\training]
+[2023-11-26 10:03:37,315: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+]
+[2023-11-26 10:06:47,513: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2023-11-26 10:39:37,471:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2023-11-26 10:39:37,485:INFO:common:yaml file: params.yaml loaded successfully]
+[2023-11-26 10:39:37,492:INFO:common:created directory at: artifacts]
+[2023-11-26 10:40:25,085:INFO:common:json file saved at: scores.json]
+[2023-11-26 10:40:33,344:INFO:builder_impl:Assets written to: C:\Users\Mayank\AppData\Local\Temp\tmpt_sp57sy\model\data\model\assets]
+[2023-11-26 10:45:23,698:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2023-11-26 10:45:23,708:INFO:common:yaml file: params.yaml loaded successfully]
+[2023-11-26 10:45:23,714:INFO:common:created directory at: artifacts]
+[2023-11-26 10:46:39,583:INFO:common:json file saved at: scores.json]
+[2023-11-26 10:46:48,730:INFO:builder_impl:Assets written to: C:\Users\Mayank\AppData\Local\Temp\tmp6bbqppgl\model\data\model\assets]
+[2023-11-26 11:02:03,495:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2023-11-26 11:02:03,514:INFO:common:yaml file: params.yaml loaded successfully]
+[2023-11-26 11:02:03,517:INFO:common:created directory at: artifacts]
+[2023-11-26 11:02:56,245:INFO:common:json file saved at: scores.json]
+[2023-11-26 11:03:06,934:INFO:builder_impl:Assets written to: C:\Users\Mayank\AppData\Local\Temp\tmpa63aef8_\model\data\model\assets]
+[2023-11-26 11:27:41,825: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-11-26 11:27:54,956: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-11-26 11:27:54,962: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 11:27:54,971: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 11:27:54,974: INFO: common: created directory at: artifacts]
+[2023-11-26 11:27:54,975: ERROR: main: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config']
+Traceback (most recent call last):
+  File "C:\Users\Mayank\Desktop\Kidney-Disease-Classification-Deep-Learning-Project\main.py", line 12, in <module>
+    data_ingestion.main()
+  File "C:\Users\Mayank\Desktop\Kidney-Disease-Classification-Deep-Learning-Project\src\cnnClassifier\pipeline\stage_01_data_ingestion.py", line 14, in main
+    data_ingestion_config = config.get_data_ingestion_config()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config'
+[2023-11-26 11:30:33,248: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-11-26 11:30:39,440: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-11-26 11:30:39,446: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 11:30:39,454: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 11:30:39,457: INFO: common: created directory at: artifacts]
+[2023-11-26 11:30:39,458: ERROR: main: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config']
+Traceback (most recent call last):
+  File "C:\Users\Mayank\Desktop\Kidney-Disease-Classification-Deep-Learning-Project\main.py", line 12, in <module>
+    data_ingestion.main()
+  File "C:\Users\Mayank\Desktop\Kidney-Disease-Classification-Deep-Learning-Project\src\cnnClassifier\pipeline\stage_01_data_ingestion.py", line 14, in main
+    data_ingestion_config = config.get_data_ingestion_config()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config'
+[2023-11-26 11:33:08,801: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-11-26 11:33:15,469: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-11-26 11:33:15,474: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 11:33:15,501: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 11:33:15,503: INFO: common: created directory at: artifacts]
+[2023-11-26 11:33:15,505: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-26 11:33:15,507: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-26 11:34:29,369: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-26 11:34:31,785: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-11-26 11:34:31,785: INFO: main: *******************]
+[2023-11-26 11:34:31,785: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2023-11-26 11:34:31,789: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 11:34:31,792: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 11:34:31,793: INFO: common: created directory at: artifacts]
+[2023-11-26 11:34:31,795: INFO: common: created directory at: artifacts/prepare_base_model]
+[2023-11-26 11:34:32,774: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2023-11-26 11:34:33,162: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2023-11-26 11:34:34,592: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-11-26 11:34:35,629: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2023-11-26 11:34:35,630: INFO: main: *******************]
+[2023-11-26 11:34:35,630: INFO: main: >>>>>> stage Training started <<<<<<]
+[2023-11-26 11:34:35,633: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 11:34:35,636: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 11:34:35,638: INFO: common: created directory at: artifacts]
+[2023-11-26 11:34:35,641: INFO: common: created directory at: artifacts\training]
+[2023-11-26 11:34:39,257: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+]
+[2023-11-26 11:37:20,335: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2023-11-26 11:37:20,336: INFO: main: *******************]
+[2023-11-26 11:37:20,336: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2023-11-26 11:37:20,342: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 11:37:20,350: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 11:37:20,353: INFO: common: created directory at: artifacts]
+[2023-11-26 11:38:15,081: INFO: common: json file saved at: scores.json]
+[2023-11-26 11:38:15,084: INFO: common: json file saved at: scores.json]
+[2023-11-26 11:38:15,084: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2023-11-26 11:42:58,242: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-11-26 11:43:03,550: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-11-26 11:43:03,553: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 11:43:03,573: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 11:43:03,574: INFO: common: created directory at: artifacts]
+[2023-11-26 11:43:03,575: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-26 11:43:03,575: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-26 11:44:10,048: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-26 11:44:13,346: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-11-26 11:44:13,346: INFO: main: *******************]
+[2023-11-26 11:44:13,346: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2023-11-26 11:44:13,352: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 11:44:13,356: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 11:44:13,358: INFO: common: created directory at: artifacts]
+[2023-11-26 11:44:13,359: INFO: common: created directory at: artifacts/prepare_base_model]
+[2023-11-26 11:44:15,024: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2023-11-26 11:44:15,449: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2023-11-26 11:44:17,276: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-11-26 11:44:19,489: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2023-11-26 11:44:19,489: INFO: main: *******************]
+[2023-11-26 11:44:19,490: INFO: main: >>>>>> stage Training started <<<<<<]
+[2023-11-26 11:44:19,494: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 11:44:19,497: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 11:44:19,499: INFO: common: created directory at: artifacts]
+[2023-11-26 11:44:19,502: INFO: common: created directory at: artifacts\training]
+[2023-11-26 11:44:23,193: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+]
+[2023-11-26 11:51:19,271: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2023-11-26 11:51:19,276: INFO: main: *******************]
+[2023-11-26 11:51:19,276: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2023-11-26 11:51:19,293: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 11:51:19,304: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 11:51:19,311: INFO: common: created directory at: artifacts]
+[2023-11-26 11:52:22,612: INFO: common: json file saved at: scores.json]
+[2023-11-26 11:52:22,615: INFO: common: json file saved at: scores.json]
+[2023-11-26 11:52:22,616: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2023-11-26 12:56:28,408: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-11-26 12:56:28,429: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 12:56:28,450: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 12:56:28,453: INFO: common: created directory at: artifacts]
+[2023-11-26 12:56:28,456: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-26 12:56:28,458: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-26 12:57:58,550: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-26 12:58:00,900: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-11-26 12:58:00,901: INFO: main: *******************]
+[2023-11-26 12:58:00,902: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2023-11-26 12:58:00,909: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 12:58:00,920: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 12:58:00,921: INFO: common: created directory at: artifacts]
+[2023-11-26 12:58:00,924: INFO: common: created directory at: artifacts/prepare_base_model]
+[2023-11-26 12:58:03,074: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-11-26 12:58:03,965: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2023-11-26 12:58:03,965: INFO: main: *******************]
+[2023-11-26 12:58:03,967: INFO: main: >>>>>> stage Training started <<<<<<]
+[2023-11-26 12:58:03,974: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 12:58:03,980: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 12:58:03,982: INFO: common: created directory at: artifacts]
+[2023-11-26 12:58:03,985: INFO: common: created directory at: artifacts\training]
+[2023-11-26 13:04:44,673: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2023-11-26 13:04:44,690: INFO: main: *******************]
+[2023-11-26 13:04:44,691: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2023-11-26 13:04:44,712: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 13:04:44,731: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 13:04:44,738: INFO: common: created directory at: artifacts]
+[2023-11-26 13:05:42,084: INFO: common: json file saved at: scores.json]
+[2023-11-26 13:05:42,092: INFO: common: json file saved at: scores.json]
+[2023-11-26 13:05:42,094: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2023-11-26 15:13:30,348: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-11-26 15:13:42,390: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-11-26 15:13:42,409: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 15:13:42,415: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 15:13:42,418: INFO: common: created directory at: artifacts]
+[2023-11-26 15:13:42,419: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-26 15:13:42,421: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-26 15:14:54,090: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-26 15:14:56,306: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-11-26 15:14:56,306: INFO: main: *******************]
+[2023-11-26 15:14:56,306: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2023-11-26 15:14:56,310: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 15:14:56,314: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 15:14:56,315: INFO: common: created directory at: artifacts]
+[2023-11-26 15:14:56,317: INFO: common: created directory at: artifacts/prepare_base_model]
+[2023-11-26 15:14:57,140: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2023-11-26 15:14:57,551: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2023-11-26 15:14:58,883: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-11-26 15:14:59,723: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2023-11-26 15:14:59,724: INFO: main: *******************]
+[2023-11-26 15:14:59,724: INFO: main: >>>>>> stage Training started <<<<<<]
+[2023-11-26 15:14:59,727: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 15:14:59,730: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 15:14:59,731: INFO: common: created directory at: artifacts]
+[2023-11-26 15:14:59,732: INFO: common: created directory at: artifacts\training]
+[2023-11-26 15:15:02,543: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+]
+[2023-11-26 15:19:52,521: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2023-11-26 15:19:52,526: INFO: main: *******************]
+[2023-11-26 15:19:52,527: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2023-11-26 15:19:52,542: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 15:19:52,551: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 15:19:52,557: INFO: common: created directory at: artifacts]
+[2023-11-26 15:20:27,761:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2023-11-26 15:20:27,777:INFO:common:yaml file: params.yaml loaded successfully]
+[2023-11-26 15:20:27,783:INFO:common:created directory at: artifacts]
+[2023-11-26 15:21:12,755: INFO: common: json file saved at: scores.json]
+[2023-11-26 15:21:12,759: INFO: common: json file saved at: scores.json]
+[2023-11-26 15:21:12,762: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2023-11-26 15:21:52,385:INFO:common:json file saved at: scores.json]
+[2023-11-26 15:22:04,067:INFO:builder_impl:Assets written to: C:\Users\Mayank\AppData\Local\Temp\tmp81fr21bt\model\data\model\assets]
+[2023-11-26 15:39:38,592: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-11-26 15:39:38,600: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 15:39:38,607: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 15:39:38,609: INFO: common: created directory at: artifacts]
+[2023-11-26 15:39:38,610: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-26 15:39:38,615: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-26 15:40:51,357: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-26 15:40:52,662: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-11-26 15:40:52,663: INFO: main: *******************]
+[2023-11-26 15:40:52,664: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2023-11-26 15:40:52,671: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 15:40:52,676: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 15:40:52,677: INFO: common: created directory at: artifacts]
+[2023-11-26 15:40:52,679: INFO: common: created directory at: artifacts/prepare_base_model]
+[2023-11-26 15:40:54,034: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-11-26 15:40:54,624: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2023-11-26 15:40:54,625: INFO: main: *******************]
+[2023-11-26 15:40:54,626: INFO: main: >>>>>> stage Training started <<<<<<]
+[2023-11-26 15:40:54,633: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 15:40:54,636: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 15:40:54,638: INFO: common: created directory at: artifacts]
+[2023-11-26 15:40:54,639: INFO: common: created directory at: artifacts\training]
+[2023-11-26 15:43:44,988: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2023-11-26 15:43:44,992: INFO: main: *******************]
+[2023-11-26 15:43:44,992: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2023-11-26 15:43:45,000: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 15:43:45,008: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 15:43:45,012: INFO: common: created directory at: artifacts]
+[2023-11-26 15:44:40,038: INFO: common: json file saved at: scores.json]
+[2023-11-26 15:44:40,041: INFO: common: json file saved at: scores.json]
+[2023-11-26 15:44:40,042: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2023-11-26 16:11:09,860: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-11-26 16:11:09,870: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 16:11:09,878: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 16:11:09,883: INFO: common: created directory at: artifacts]
+[2023-11-26 16:11:09,886: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-26 16:11:09,888: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-26 16:12:21,889: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-26 16:12:24,379: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-11-26 16:12:24,381: INFO: main: *******************]
+[2023-11-26 16:12:24,383: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2023-11-26 16:12:24,389: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 16:12:24,394: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 16:12:24,397: INFO: common: created directory at: artifacts]
+[2023-11-26 16:12:24,403: INFO: common: created directory at: artifacts/prepare_base_model]
+[2023-11-26 16:12:26,449: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-11-26 16:12:27,343: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2023-11-26 16:12:27,344: INFO: main: *******************]
+[2023-11-26 16:12:27,348: INFO: main: >>>>>> stage Training started <<<<<<]
+[2023-11-26 16:12:27,360: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 16:12:27,370: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 16:12:27,372: INFO: common: created directory at: artifacts]
+[2023-11-26 16:12:27,375: INFO: common: created directory at: artifacts\training]
+[2023-11-26 16:17:39,330: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2023-11-26 16:17:39,339: INFO: main: *******************]
+[2023-11-26 16:17:39,339: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2023-11-26 16:17:39,351: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 16:17:39,362: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 16:17:39,367: INFO: common: created directory at: artifacts]
+[2023-11-26 16:18:34,328: INFO: common: json file saved at: scores.json]
+[2023-11-26 16:18:34,331: INFO: common: json file saved at: scores.json]
+[2023-11-26 16:18:42,482: INFO: builder_impl: Assets written to: C:\Users\Mayank\AppData\Local\Temp\tmpbio075xw\model\data\model\assets]
+[2023-11-26 16:19:24,770: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2023-11-26 21:20:58,592: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-11-26 21:20:58,602: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 21:20:58,610: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 21:20:58,614: INFO: common: created directory at: artifacts]
+[2023-11-26 21:20:58,616: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-26 21:20:58,617: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-26 21:23:26,920: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-26 21:23:29,210: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-11-26 21:23:29,211: INFO: main: *******************]
+[2023-11-26 21:23:29,213: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2023-11-26 21:23:29,220: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 21:23:29,225: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 21:23:29,230: INFO: common: created directory at: artifacts]
+[2023-11-26 21:23:29,232: INFO: common: created directory at: artifacts/prepare_base_model]
+[2023-11-26 21:23:30,895: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-11-26 21:23:31,784: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2023-11-26 21:23:31,785: INFO: main: *******************]
+[2023-11-26 21:23:31,786: INFO: main: >>>>>> stage Training started <<<<<<]
+[2023-11-26 21:23:31,793: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 21:23:31,800: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 21:23:31,803: INFO: common: created directory at: artifacts]
+[2023-11-26 21:23:31,805: INFO: common: created directory at: artifacts\training]
+[2023-11-26 21:25:42,918: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2023-11-26 21:25:42,924: INFO: main: *******************]
+[2023-11-26 21:25:42,926: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2023-11-26 21:25:42,941: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 21:25:42,951: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 21:25:42,958: INFO: common: created directory at: artifacts]
+[2023-11-26 21:26:37,448: INFO: common: json file saved at: scores.json]
+[2023-11-26 21:26:37,453: INFO: common: json file saved at: scores.json]
+[2023-11-26 21:26:43,916: INFO: builder_impl: Assets written to: C:\Users\Mayank\AppData\Local\Temp\tmp0ekxv5qi\model\data\model\assets]
+[2023-11-26 21:27:09,310: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2023-11-26 21:58:23,597: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-11-26 21:58:23,603: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 21:58:23,608: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 21:58:23,610: INFO: common: created directory at: artifacts]
+[2023-11-26 21:58:23,611: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-26 21:58:23,612: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-26 22:00:27,578: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-26 22:00:29,318: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-11-26 22:00:29,318: INFO: main: *******************]
+[2023-11-26 22:00:29,318: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2023-11-26 22:00:29,324: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 22:00:29,328: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 22:00:29,330: INFO: common: created directory at: artifacts]
+[2023-11-26 22:00:29,331: INFO: common: created directory at: artifacts/prepare_base_model]
+[2023-11-26 22:00:30,485: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-11-26 22:00:32,456: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2023-11-26 22:00:32,457: INFO: main: *******************]
+[2023-11-26 22:00:32,458: INFO: main: >>>>>> stage Training started <<<<<<]
+[2023-11-26 22:00:32,466: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 22:00:32,470: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 22:00:32,471: INFO: common: created directory at: artifacts]
+[2023-11-26 22:00:32,472: INFO: common: created directory at: artifacts\training]
+[2023-11-26 22:03:23,630: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2023-11-26 22:03:23,644: INFO: main: *******************]
+[2023-11-26 22:03:23,644: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2023-11-26 22:03:23,671: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 22:03:23,692: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 22:03:23,699: INFO: common: created directory at: artifacts]
+[2023-11-26 22:05:39,450: INFO: common: json file saved at: scores.json]
+[2023-11-26 22:05:39,452: INFO: common: json file saved at: scores.json]
+[2023-11-26 22:05:44,427: INFO: builder_impl: Assets written to: C:\Users\Mayank\AppData\Local\Temp\tmpx90vylu3\model\data\model\assets]
+[2023-11-26 22:06:02,532: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2023-11-26 22:24:49,229:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2023-11-26 22:24:49,239:INFO:common:yaml file: params.yaml loaded successfully]
+[2023-11-26 22:24:49,244:INFO:common:created directory at: artifacts]
+[2023-11-26 22:26:11,293:INFO:common:json file saved at: scores.json]
+[2023-11-26 22:26:23,255:INFO:builder_impl:Assets written to: C:\Users\Mayank\AppData\Local\Temp\tmp16gffujf\model\data\model\assets]
+[2023-11-26 22:47:08,500: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-11-26 22:47:08,513: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 22:47:08,523: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 22:47:08,526: INFO: common: created directory at: artifacts]
+[2023-11-26 22:47:08,529: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-26 22:47:08,532: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-26 22:52:46,704: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-26 22:52:49,100: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-11-26 22:52:49,102: INFO: main: *******************]
+[2023-11-26 22:52:49,103: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2023-11-26 22:52:49,112: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 22:52:49,123: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 22:52:49,125: INFO: common: created directory at: artifacts]
+[2023-11-26 22:52:49,128: INFO: common: created directory at: artifacts/prepare_base_model]
+[2023-11-26 22:52:51,129: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-11-26 22:52:52,103: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2023-11-26 22:52:52,104: INFO: main: *******************]
+[2023-11-26 22:52:52,108: INFO: main: >>>>>> stage Training started <<<<<<]
+[2023-11-26 22:52:52,123: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 22:52:52,133: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 22:52:52,136: INFO: common: created directory at: artifacts]
+[2023-11-26 22:52:52,139: INFO: common: created directory at: artifacts\training]
+[2023-11-26 22:55:39,418: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2023-11-26 22:55:39,421: INFO: main: *******************]
+[2023-11-26 22:55:39,422: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2023-11-26 22:55:39,430: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 22:55:39,438: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 22:55:39,443: INFO: common: created directory at: artifacts]
+[2023-11-26 22:56:34,310: INFO: common: json file saved at: scores.json]
+[2023-11-26 22:56:34,317: INFO: common: json file saved at: scores.json]
+[2023-11-26 22:56:40,675: INFO: builder_impl: Assets written to: C:\Users\Mayank\AppData\Local\Temp\tmp1q3kzs0d\model\data\model\assets]
+[2023-11-26 22:57:10,173: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2023-11-26 23:32:26,899: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-11-26 23:32:35,663: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-11-26 23:32:35,676: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 23:32:35,689: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 23:32:35,691: INFO: common: created directory at: artifacts]
+[2023-11-26 23:32:35,692: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-26 23:32:35,692: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-26 23:37:40,260: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-26 23:37:41,990: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-11-26 23:37:41,990: INFO: main: *******************]
+[2023-11-26 23:37:41,990: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2023-11-26 23:37:41,995: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 23:37:41,999: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 23:37:42,000: INFO: common: created directory at: artifacts]
+[2023-11-26 23:37:42,001: INFO: common: created directory at: artifacts/prepare_base_model]
+[2023-11-26 23:37:42,794: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2023-11-26 23:37:43,115: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2023-11-26 23:37:44,052: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-11-26 23:37:44,758: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2023-11-26 23:37:44,758: INFO: main: *******************]
+[2023-11-26 23:37:44,758: INFO: main: >>>>>> stage Training started <<<<<<]
+[2023-11-26 23:37:44,761: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 23:37:44,764: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 23:37:44,764: INFO: common: created directory at: artifacts]
+[2023-11-26 23:37:44,765: INFO: common: created directory at: artifacts\training]
+[2023-11-26 23:37:46,918: WARNING: module_wrapper: From C:\Users\Mayank\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+]
+[2023-11-26 23:40:27,566: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2023-11-26 23:40:27,572: INFO: main: *******************]
+[2023-11-26 23:40:27,573: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2023-11-26 23:40:27,594: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-26 23:40:27,603: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-26 23:40:27,607: INFO: common: created directory at: artifacts]
+[2023-11-26 23:41:30,550: INFO: common: json file saved at: scores.json]
+[2023-11-26 23:41:30,555: INFO: common: json file saved at: scores.json]
+[2023-11-26 23:41:41,594: INFO: builder_impl: Assets written to: C:\Users\Mayank\AppData\Local\Temp\tmpaig6grqh\model\data\model\assets]
+[2023-11-26 23:42:42,430: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]

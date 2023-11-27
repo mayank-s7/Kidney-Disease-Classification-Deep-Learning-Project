@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mayank/Desktop/Kidney-Disease-Classification-Deep-Learning-Project/mlruns/0/ef1b841f1490412c8cdccb166451d4ee/artifacts
+end_time: 1701019630166
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef1b841f1490412c8cdccb166451d4ee
+run_name: bemused-perch-66
+run_uuid: ef1b841f1490412c8cdccb166451d4ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701019595048
+status: 3
+tags: []
+user_id: Mayank
